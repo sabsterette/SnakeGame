@@ -8,3 +8,5 @@ There are 4 classes:
 - The board class that hands all the game play
 - The snake class contains the positions and shapes for the snake
 - The apples class contains the positions and shapes for the apples
+
+The Jar file is called SNAKE!
